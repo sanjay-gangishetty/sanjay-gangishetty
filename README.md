@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,express,nodejs,mysql,mongodb,c,cpp,php,py,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,express,nodejs,mysql,mongodb,c,cpp,php,py,git,github,postman)](#)
 
 <h3 align="left">IDEs:</h3>
 
