@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-gangishetty&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-gangishetty" /> </p>
 
-- 👨‍💻 All of my projects are available at [https:/sanjay-gangishetty.github.io/portfolio/](https:/sanjay-gangishetty.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://sanjay-gangishetty.github.io/portfolio/).
 
 - 📫 How to reach me **gangishettysanjaykumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hizEp8A5ybWM63kONBVVosqLge2TiyhM/view](https://drive.google.com/file/d/1hizEp8A5ybWM63kONBVVosqLge2TiyhM/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hizEp8A5ybWM63kONBVVosqLge2TiyhM/view)
 
-- ⚡ Fun fact **"Why do programmers prefer dark mode? Because light attracts bugs!" 🐞🌑**
+- ⚡ Fun fact - <br>**"Why do programmers prefer dark mode? Because light attracts bugs!" 🐞🌑**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
