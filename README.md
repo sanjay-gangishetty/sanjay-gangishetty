@@ -21,10 +21,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,express,nodejs,mysql,mongodb,c,cpp,php,py,git,github,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,express,nodejs,react,mysql,mongodb,c,cpp,php,py,git,github,postman)](#)
 
 <h3 align="left">IDEs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime,vite,vue)](#)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&show_icons=true&locale=en" alt="sanjay-gangishetty" /></p>
