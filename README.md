@@ -28,3 +28,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime)](#)
 <br/>
 ![sanjay-gangishetty's Stats](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<br/>
+![sanjay-gangishetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-gangishetty&theme=tokyonight&hide_border=true)
