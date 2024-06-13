@@ -26,5 +26,5 @@
 <h3 align="left">IDEs:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime)](#)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&show_icons=true&locale=en" alt="sanjay-gangishetty" /></p>
+<br/>
+![sanjay-gangishetty's Stats](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
