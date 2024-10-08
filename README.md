@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gangishettysanjaykumar@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1hizEp8A5ybWM63kONBVVosqLge2TiyhM/view](https://sanjay-gangishetty.github.io/portfolio/resume.html))
+- 📄 Know about my experiences [Resume](https://sanjay-gangishetty.github.io/portfolio/resume.html)
 
 - ⚡ Fun fact - <br>**"Why do programmers prefer dark mode? Because light attracts bugs!" 🐞**
 
