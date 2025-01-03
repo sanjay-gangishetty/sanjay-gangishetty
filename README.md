@@ -1,3 +1,4 @@
+[![](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/sanjay-gangishetty)
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
