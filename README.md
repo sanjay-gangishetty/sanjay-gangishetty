@@ -49,8 +49,6 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 ### Development Environment
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime,vim,bash,postman,ubuntu,md)](https://skillicons.dev)
 
----
-
-![sanjay-gangishetty's Stats](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<br/>
+## 📊 GitHub Analytics
+![sanjay-gangishetty's Stats](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 ![sanjay-gangishetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-gangishetty&theme=tokyonight&hide_border=true)
