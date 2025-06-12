@@ -59,5 +59,3 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangishettysanjaykumar@gmail.com)
 
 </div>
-
----
