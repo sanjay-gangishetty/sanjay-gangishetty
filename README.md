@@ -29,14 +29,28 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 <!-- <a href="https://www.leetcode.com/sanjaykumarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay_sk_kumar1" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,java,html,css,js,jquery,bootstrap,tailwindcss,express,nodejs,react,vite,remix,mysql,sqlite,mongodb,prisma,c,cpp,php,py,flask,linux,docker,prometheus,grafana,git,github,vim,bash,md,postman,ubuntu,graphql,githubactions,cloudflare)](#)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,remix,jquery,bootstrap,tailwindcss)](https://skillicons.dev)
 
-<h3 align="left">IDEs:</h3>
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,flask,py,graphql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime)](#)
-<br/>
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,prisma)](https://skillicons.dev)
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,c,cpp,php)](https://skillicons.dev)
+
+### DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,cloudflare,prometheus,grafana)](https://skillicons.dev)
+
+### Development Environment
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sublime,vim,bash,postman,ubuntu,md)](https://skillicons.dev)
+
+---
+
 ![sanjay-gangishetty's Stats](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <br/>
 ![sanjay-gangishetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-gangishetty&theme=tokyonight&hide_border=true)
