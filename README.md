@@ -48,8 +48,6 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 
 ## 📫 Let's Connect!
 
-<div align="center">
-  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sanjay-gangishetty.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://sanjay-gangishetty.github.io/portfolio/resume.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-gangishetty)
@@ -57,5 +55,3 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sanjay_sk_kumar1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangishettysanjaykumar@gmail.com)
-
-</div>
