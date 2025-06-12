@@ -21,14 +21,6 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 
 - ⚡ Fun fact - <br>**"Why do programmers prefer dark mode? Because light attracts bugs!" 🐞**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjay-gangishetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-gangishetty" height="30" width="40" /></a>
-<a href="https://instagram.com/imsanjay.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsanjay.x" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanjay_sk_kumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjay_sk_kumar1" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/sanjaykumarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay_sk_kumar1" height="30" width="40" /></a> -->
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -52,3 +44,20 @@ I'm a passionate **Software Developer** from India who loves turning ideas into 
 ## 📊 GitHub Analytics
 ![sanjay-gangishetty's Stats](https://github-readme-stats.vercel.app/api?username=sanjay-gangishetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 ![sanjay-gangishetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-gangishetty&theme=tokyonight&hide_border=true)
+
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sanjay-gangishetty.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://sanjay-gangishetty.github.io/portfolio/resume.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-gangishetty)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imsanjay.x)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sanjay_sk_kumar1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangishettysanjaykumar@gmail.com)
+
+</div>
+
+---
