@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full+Stack+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 <img align="right" alt="coding-img" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
